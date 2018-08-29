@@ -9,5 +9,7 @@ This is a simple readme file.
 checking for the diff command
 
 modifying the file for branching
-
 # This the change from the master branch
+
+# this is bound to cause troble for merging
+
