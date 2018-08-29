@@ -7,3 +7,5 @@ This is a simple readme file.
 ### this is another modification to the read me file
 
 checking for the diff command
+
+modifying the file for branching
